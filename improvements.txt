@@ -1,0 +1,4 @@
+I'd like to begin by apologizing for not being able to allocate time for the user interface development in our project. Due to time constraints, my primary focus was on backend development to ensure the completion of critical functionality. At this stage, the UI remains unaddressed, and I fully acknowledge its importance and plan to include it in future iterations.
+I opted for custom JWT token handling, although using a third-party solution would have simplified token management.
+Using an email template would have improved the visual appearance and professionalism of the email.
+Adding options for calling and WhatsApp communication would have been a better.
